@@ -1,34 +1,32 @@
-# privacy-policy
-
 <!DOCTYPE html>
+<html>
+<head>
+  <title>Privacy Policy - Gasify</title>
+</head>
 <body>
   <h1>Privacy Policy for Gasify</h1>
   <p><strong>Effective date:</strong> July 7, 2025</p>
 
-  <p>Gasify ("we", "our", or "us") respects your privacy. This Privacy Policy explains how we collect, use, and protect your information.</p>
+  <p>Gasify ("we", "our", or "us") respects your privacy. This Privacy Policy outlines how the app handles your data.</p>
 
   <h2>1. Information We Collect</h2>
-  <ul>
-    <li>No personal data is collected without your input.</li>
-    <li>Data entered in the app (e.g., pipe sizes, appliance info) is stored locally on your device.</li>
-    <li>If you use cloud backup features in the future, we may request access to your email or storage (optional).</li>
-  </ul>
+  <p>Gasify does not collect or store any personal data on our servers. Any engineer or company information you enter is saved only on your device using local storage (AsyncStorage).</p>
 
-  <h2>2. How We Use Your Data</h2>
-  <p>We use data solely to power app functionality like gas calculations and PDF exports. We do not sell or share your data.</p>
+  <h2>2. Data Usage</h2>
+  <p>All data entered into the app, such as pipe layouts, appliance details, or engineer information, is stored locally for your own use. This data is never transmitted to us or any third parties.</p>
 
-  <h2>3. Permissions</h2>
-  <p>Gasify may request access to local storage for saving PDFs and reports.</p>
+  <h2>3. In-App Purchases</h2>
+  <p>Gasify offers a 7-day free trial, followed by optional monthly or yearly subscription plans. All payments are handled securely through the Google Play Store and Apple App Store. We do not process or store any payment information ourselves.</p>
 
   <h2>4. Third-Party Services</h2>
-  <p>We do not use advertising or analytics SDKs. Future versions may integrate optional services with clear opt-in.</p>
+  <p>Gasify does not use third-party analytics, advertising SDKs, or data tracking tools.</p>
 
   <h2>5. Your Rights</h2>
-  <p>You can delete app data at any time by clearing the app’s storage from your device settings.</p>
+  <p>You can delete your data at any time by clearing the app's local storage through your device settings or uninstalling the app.</p>
 
   <h2>6. Contact</h2>
-  <p>If you have questions, email us at gasifycalc@gmail.com</p>
+  <p>If you have any questions about this Privacy Policy, please contact us at: <strong>gasifycalc@gmail.com</strong></p>
 
-  <p>By using the app, you agree to this privacy policy.</p>
+  <p>By using Gasify, you agree to this Privacy Policy.</p>
 </body>
 </html>
