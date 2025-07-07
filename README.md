@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Privacy Policy - Gasify</title>
+ Privacy Policy - Gasify
 </head>
 <body>
   <h1>Privacy Policy for Gasify</h1>
