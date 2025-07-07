@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Privacy Policy - Gasify</title>
-</head>
+
 <body>
   <h1>Privacy Policy for Gasify</h1>
   <p><strong>Effective date:</strong> July 7, 2025</p>
